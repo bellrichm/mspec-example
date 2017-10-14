@@ -1,0 +1,2 @@
+C:\Users\thebells\.nuget\packages\Machine.Specifications.Runner.Console\0.9.3\tools\mspec-clr4.exe bin\Debug\net462\mspec-example.dll
+C:\Users\thebells\.nuget\packages\Machine.Specifications.Runner.Console\0.9.3\tools\mspec-clr4.exe bin\Debug\netcoreapp2.0\mspec-example.dll
